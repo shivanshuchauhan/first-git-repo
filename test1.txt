@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0C07-0A2A
+
+ Directory of C:\Users\shiva\OneDrive\Desktop\git basic
+
+25-08-2020  14:01    <DIR>          .
+25-08-2020  14:01    <DIR>          ..
+25-08-2020  14:01                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  27,820,425,216 bytes free
